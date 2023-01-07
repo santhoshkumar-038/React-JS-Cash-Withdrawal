@@ -1,0 +1,21 @@
+.button {
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  color: #c4c4c4;
+  font-size: 18px;
+  font-weight: bold;
+  width: 160px;
+  height: 40px;
+  cursor: pointer;
+  outline: none;
+}
+
+.item-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 5px;
+}
